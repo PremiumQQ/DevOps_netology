@@ -1,0 +1,5 @@
+---
+vector:
+  hosts:
+    ubuntu:
+      ansible_connection: local
