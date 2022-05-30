@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fee83d3-d25c-4205-80ca-f900fe11506e" name="Changes" comment="DZ 10.02_V2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29PbZjYWdxQMwEVjNEVEyEzv3T5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="main" />
+    </force-push-targets>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fee83d3-d25c-4205-80ca-f900fe11506e" name="Changes" comment="" />
+      <created>1653017724932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653017724932</updated>
+    </task>
+    <task id="LOCAL-00001" summary="DZ 10.01">
+      <created>1653024391764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653024391764</updated>
+    </task>
+    <task id="LOCAL-00002" summary="DZ 10.01">
+      <created>1653024606753</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653024606753</updated>
+    </task>
+    <task id="LOCAL-00003" summary="DZ 10.01">
+      <created>1653024694309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653024694309</updated>
+    </task>
+    <task id="LOCAL-00004" summary="DZ 10.01">
+      <created>1653025241821</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653025241821</updated>
+    </task>
+    <task id="LOCAL-00005" summary="DZ 10.01">
+      <created>1653025274747</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653025274747</updated>
+    </task>
+    <task id="LOCAL-00006" summary="DZ 10.01">
+      <created>1653025279140</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653025279140</updated>
+    </task>
+    <task id="LOCAL-00007" summary="10-ansible-02-playbook">
+      <created>1653885636785</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653885636785</updated>
+    </task>
+    <task id="LOCAL-00008" summary="DZ 10.02">
+      <created>1653886132406</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653886132406</updated>
+    </task>
+    <task id="LOCAL-00009" summary="DZ 10.02">
+      <created>1653886200121</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653886200121</updated>
+    </task>
+    <task id="LOCAL-00010" summary="DZ 10.02_01">
+      <created>1653886354562</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653886354562</updated>
+    </task>
+    <task id="LOCAL-00011" summary="DZ 10.02_01">
+      <created>1653886550664</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653886550664</updated>
+    </task>
+    <task id="LOCAL-00012" summary="DZ 10.02">
+      <created>1653887774858</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653887774858</updated>
+    </task>
+    <task id="LOCAL-00013" summary="DZ 10.02">
+      <created>1653887952382</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1653887952382</updated>
+    </task>
+    <task id="LOCAL-00014" summary="DZ 10.02">
+      <created>1653887957214</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1653887957214</updated>
+    </task>
+    <task id="LOCAL-00015" summary="DZ 10.02">
+      <created>1653888191184</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1653888191184</updated>
+    </task>
+    <task id="LOCAL-00016" summary="DZ 10.02_V2">
+      <created>1653888303619</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1653888303619</updated>
+    </task>
+    <task id="LOCAL-00017" summary="DZ 10.02_V2">
+      <created>1653888947932</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1653888947932</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DZ 10.01" />
+    <MESSAGE value="10-ansible-02-playbook" />
+    <MESSAGE value="DZ 10.02_01" />
+    <MESSAGE value="DZ 10.02" />
+    <MESSAGE value="DZ 10.02_V2" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ 10.02_V2" />
+  </component>
+</project>
